@@ -29,3 +29,5 @@ C:\Users\User\Desktop\cloud-final-project\obj\Debug\net7.0\refint\cloud-final-pr
 C:\Users\User\Desktop\cloud-final-project\obj\Debug\net7.0\cloud-final-project.pdb
 C:\Users\User\Desktop\cloud-final-project\obj\Debug\net7.0\cloud-final-project.genruntimeconfig.cache
 C:\Users\User\Desktop\cloud-final-project\obj\Debug\net7.0\ref\cloud-final-project.dll
+C:\Users\User\Desktop\cloud-final-project\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\cloud-final-project\obj\Debug\net7.0\cloud-final-project.csproj.CopyComplete

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/Mh72vU84/fQfTJliAguPLk6AHJLVFK4rXwm7iApQp1KYfVK4D72IdiB1/vnxEaD1AG9IEMQZuScc8p+FsBKiw==",
+  "dgSpecHash": "lTisIHkV1B3RStv+5qTeKdVKU+RjXSByFJNkgxVxMGlX3h71Fk45pzZUQzHpiAEYJpxXuwUAN9CiEoPq/e2SNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\cloud-final-project\\cloud-final-project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
